@@ -1,0 +1,57 @@
+{
+  "box": {
+    "background": {
+      "value": "#F7941F",
+      "type": "color"
+    },
+    "shadow": {
+      "drop": {
+        "value": {
+          "x": 4,
+          "y": 4,
+          "blur": 4,
+          "spread": 0,
+          "color": "#1f1f1f4d",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      }
+    }
+  },
+  "container": {
+    "background": {
+      "value": "#995DB5",
+      "type": "color"
+    },
+    "padding": {
+      "value": 20,
+      "type": "spacing"
+    }
+  },
+  "border": {
+    "fill": {
+      "value": "#1E1E1E",
+      "type": "color"
+    },
+    "width": {
+      "value": 3,
+      "type": "borderWidth"
+    },
+    "radius": {
+      "value": 8,
+      "type": "borderRadius"
+    }
+  },
+  "text": {
+    "fill": {
+      "value": "#1E1E1E",
+      "type": "color"
+    }
+  },
+  "tokenSetOrder": {
+    "0": {
+      "value": "box",
+      "type": "other"
+    }
+  }
+}
