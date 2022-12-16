@@ -41,6 +41,10 @@
     "padding": {
       "value": 20,
       "type": "spacing"
+    },
+    "gap": {
+      "value": 20,
+      "type": "spacing"
     }
   },
   "border": {
@@ -65,7 +69,7 @@
   },
   "tokenSetOrder": {
     "0": {
-      "value": "box",
+      "value": "global",
       "type": "other"
     }
   }
