@@ -30,7 +30,7 @@
   },
   "border": {
     "fill": {
-      "value": "#1E1E1E",
+      "value": "blue",
       "type": "color"
     },
     "width": {

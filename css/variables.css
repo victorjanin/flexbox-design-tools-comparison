@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 16 Dec 2022 08:11:24 GMT
+ * Generated on Fri, 16 Dec 2022 09:04:32 GMT
  */
 
 :root {
@@ -8,7 +8,7 @@
   --fb-box-shadow-drop: [object Object];
   --fb-container-background: #995DB5;
   --fb-container-padding: 20;
-  --fb-border-fill: #1E1E1E;
+  --fb-border-fill: blue;
   --fb-border-width: 3;
   --fb-border-radius: 8;
   --fb-text-fill: #1E1E1E;
