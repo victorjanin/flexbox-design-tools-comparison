@@ -19,6 +19,7 @@ body {
 	font-family: 'Chillax', sans-serif;
 	font-size: 32px;
 	font-weight: 550;
+	line-height: 0;
 }
 
 .container {
