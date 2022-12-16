@@ -11,7 +11,7 @@ jobs:
         uses: actions/setup-node@v2.4.0
       # Transform Figma Tokens JSON to something Style Dictionary can read
       - run: npx token-transformer tokens.json tokens/input.json --expandShadow=true
-      - run: npx install -D style-dictionary
+      - run: npm install -D style-dictionary
       # Convert tokens according to Style Dictionary config
       - run: node build.js
       # Add files that were created during a run, e.g. created files from style dictionary or token-transformer.
