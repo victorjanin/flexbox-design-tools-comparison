@@ -1,16 +1,21 @@
 /**
  * Do not edit directly
- * Generated on Fri, 16 Dec 2022 09:21:50 GMT
+ * Generated on Fri, 16 Dec 2022 10:22:22 GMT
  */
 
 :root {
-  --background: #F7941F;
-  --drop: [object Object];
-  --background: #995DB5;
-  --padding: 20;
-  --fill: blue;
-  --width: 3;
-  --radius: 8;
-  --fill: #1E1E1E;
-  --0: box;
+  --fb-box-background: #F7941F;
+  --fb-box-shadow-drop-x: 4;
+  --fb-box-shadow-drop-y: 4;
+  --fb-box-shadow-drop-blur: 4;
+  --fb-box-shadow-drop-spread: 0;
+  --fb-box-shadow-drop-color: #1f1f1f4d;
+  --fb-box-shadow-drop-type: dropShadow;
+  --fb-container-background: #995DB5;
+  --fb-container-padding: 20px;
+  --fb-border-fill: blue;
+  --fb-border-width: 3px;
+  --fb-border-radius: 8px;
+  --fb-text-fill: #1E1E1E;
+  --fb-token-set-order-0: box;
 }

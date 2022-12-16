@@ -6,8 +6,10 @@
         "css": {
             "transformGroup": "css",
             "transforms": [
-                "size/rem",
-                "color/rgb"
+                "attribute/cti",
+                "name/cti/kebab",
+                "color/hex",
+                "size/px"
             ],
             "prefix": "fb",
             "files": [
