@@ -1,11 +1,7 @@
 @font-face {
 	font-family: 'Chillax';
-	src: url('https://victorjanin.github.io/assets/fonts/Chillax-Variable.woff2')
-			format('woff2'),
-		url('https://victorjanin.github.io/assets/fonts/Chillax-Variable.woff')
-			format('woff'),
-		url('https://victorjanin.github.io/assets/fonts/Chillax-Variable.ttf')
-			format('truetype');
+	src: url('https://victorjan.in/assets/fonts/ClashDisplay-Variable.woff2')
+		format('truetype');
 	font-weight: 200 700;
 	font-display: swap;
 	font-style: normal;
