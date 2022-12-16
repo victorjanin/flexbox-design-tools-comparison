@@ -1,0 +1,38 @@
+body {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#container {
+	width: 600px;
+
+	display: flex;
+	gap: var(--fb-container-gap);
+
+	background-color: var(--fb-container-background);
+
+	border: var(--fb-border-width) solid var(--fb-border-fill);
+	border-radius: var(--fb-border-radius);
+
+	padding: var(--fb-container-padding);
+}
+
+.box {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	width: 80px;
+	height: 80px;
+
+	background-color: var(--fb-box-background);
+
+	border: var(--fb-border-width) solid var(--fb-border-fill);
+	border-radius: var(--fb-border-radius);
+}
+
+.box.double {
+	width: 160px;
+}
