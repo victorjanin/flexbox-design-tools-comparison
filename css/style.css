@@ -21,7 +21,7 @@ body {
 	font-weight: 600;
 }
 
-#container {
+.container {
 	width: 600px;
 
 	display: flex;
