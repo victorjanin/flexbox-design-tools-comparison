@@ -5,6 +5,10 @@
     "platforms": {
         "css": {
             "transformGroup": "css",
+            "transforms": [
+                "size/rem",
+                "color/rgb"
+            ],
             "prefix": "fb",
             "files": [
                 {
