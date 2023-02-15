@@ -1,10 +1,10 @@
 /**
  * Do not edit directly
- * Generated on Mon, 13 Feb 2023 15:45:08 GMT
+ * Generated on Wed, 15 Feb 2023 09:59:04 GMT
  */
 
 :root {
-  --fb-box-background: #F7941F;
+  --fb-box-background: red;
   --fb-box-shadow-drop-x: 4;
   --fb-box-shadow-drop-y: 4;
   --fb-box-shadow-drop-blur: 4;
