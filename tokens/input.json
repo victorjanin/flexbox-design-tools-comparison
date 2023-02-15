@@ -1,7 +1,7 @@
 {
   "box": {
     "background": {
-      "value": "#F7941F",
+      "value": "blue",
       "type": "color"
     },
     "shadow": {
