@@ -1,4 +1,10 @@
 {
+  "color": {
+    "primary": {
+      "value": "red",
+      "type": "color"
+    }
+  },
   "colors": {
     "Grey": {
       "50": {
@@ -355,7 +361,11 @@
       "type": "other"
     },
     "1": {
-      "value": "core",
+      "value": "gX.core",
+      "type": "other"
+    },
+    "2": {
+      "value": "gX.phoenix",
       "type": "other"
     }
   }

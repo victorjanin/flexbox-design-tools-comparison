@@ -1,9 +1,10 @@
 /**
  * Do not edit directly
- * Generated on Fri, 24 Feb 2023 09:15:45 GMT
+ * Generated on Fri, 24 Feb 2023 09:40:53 GMT
  */
 
 :root {
+  --fb-color-primary: #ff0000;
   --fb-colors-grey-50: #f9fafd;
   --fb-colors-grey-100: #f1f4fa;
   --fb-colors-grey-200: #e5eaf6;
@@ -83,5 +84,6 @@
   --fb-border-radius: 8px;
   --fb-text-fill: #1E1E1E;
   --fb-token-set-order-0: global;
-  --fb-token-set-order-1: core;
+  --fb-token-set-order-1: gX.core;
+  --fb-token-set-order-2: gX.phoenix;
 }
