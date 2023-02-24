@@ -1,9 +1,73 @@
 /**
  * Do not edit directly
- * Generated on Mon, 20 Feb 2023 08:59:37 GMT
+ * Generated on Fri, 24 Feb 2023 09:15:45 GMT
  */
 
 :root {
+  --fb-colors-grey-50: #f9fafd;
+  --fb-colors-grey-100: #f1f4fa;
+  --fb-colors-grey-200: #e5eaf6;
+  --fb-colors-grey-300: #d8e0f1;
+  --fb-colors-grey-400: #bfcce2;
+  --fb-colors-grey-500: #9ba6b7;
+  --fb-colors-grey-600: #546982;
+  --fb-colors-grey-700: #3a4b5f;
+  --fb-colors-grey-800: #242c34;
+  --fb-colors-grey-900: #131a24;
+  --fb-colors-primary-50: #d2f1f0;
+  --fb-colors-primary-300: #c4f1f2;
+  --fb-colors-primary-500: #72d2d6;
+  --fb-colors-primary-700: #0fb9b6;
+  --fb-colors-primary-900: #196d80;
+  --fb-colors-secondary-50: #b2d1ff;
+  --fb-colors-secondary-300: #519eff;
+  --fb-colors-secondary-500: #4166e9;
+  --fb-colors-secondary-700: #2400a7;
+  --fb-colors-secondary-900: #140075;
+  --fb-colors-error-50: #fcdadc;
+  --fb-colors-error-300: #f9b6b7;
+  --fb-colors-error-500: #f69092;
+  --fb-colors-error-700: #f04649;
+  --fb-colors-error-900: #c30003;
+  --fb-colors-success-50: #a9ffd7;
+  --fb-colors-success-300: #7bffc2;
+  --fb-colors-success-500: #33fd9f;
+  --fb-colors-success-700: #23d080;
+  --fb-colors-success-900: #009c54;
+  --fb-colors-warning-50: #fff4d4;
+  --fb-colors-warning-300: #ffe9aa;
+  --fb-colors-warning-500: #ffdd7f;
+  --fb-colors-warning-700: #ffc612;
+  --fb-colors-warning-900: #cc9b00;
+  --fb-colors-shades-white: #ffffff;
+  --fb-colors-shades-black: #000000;
+  --fb-colors-application-light-grey: #d9d9d9;
+  --fb-colors-application-dark-grey: #8296af;
+  --fb-colors-application-dark-violet: #6223b1;
+  --fb-colors-application-light-violet: #9f67e5;
+  --fb-colors-application-dark-green: #338f95;
+  --fb-colors-application-light-green: #5abdcb;
+  --fb-colors-application-dark-blue: #091f8d;
+  --fb-colors-application-light-blue: #516fda;
+  --fb-colors-application-dark-red: #a81818;
+  --fb-colors-application-light-red: #fa7c6d;
+  --fb-colors-secondary-application-orange: #fb8547;
+  --fb-colors-secondary-application-earls-green: #afb42b;
+  --fb-colors-secondary-application-grey: #5a6066;
+  --fb-colors-secondary-application-pink: #e71261;
+  --fb-colors-secondary-application-violet: #7b1fa2;
+  --fb-colors-secondary-application-purple: #512da8;
+  --fb-colors-secondary-application-light-blue: #5d5fef;
+  --fb-colors-secondary-application-blue: #367bf3;
+  --fb-colors-secondary-application-dark-green: #388e3c;
+  --fb-colors-secondary-application-light-green: #72c040;
+  --fb-colors-grey-gradients-gradient-100-50: linear-gradient(180deg, #f1f4fa 0%, #f9fafd 100%);
+  --fb-colors-grey-gradients-gradient-200-50: linear-gradient(180deg, #e5eaf6 0%, #f9fafd 100%);
+  --fb-colors-grey-gradients-gradient-300-50: linear-gradient(180deg, #d8e0f1 0%, #f9fafd 100%);
+  --fb-colors-grey-gradients-gradient-400-50: linear-gradient(180deg, #bfcce2 0%, #f9fafd 100%);
+  --fb-colors-grey-gradients-gradient-200-100: linear-gradient(180deg, #e5eaf6 0%, #f1f4fa 100%);
+  --fb-colors-grey-gradients-gradient-300-100: linear-gradient(180deg, #d8e0f1 0%, #f1f4fa 100%);
+  --fb-colors-grey-gradients-gradient-400-100: linear-gradient(180deg, #bfcce2 0%, #f1f4fa 100%);
   --fb-box-background: #F7941F;
   --fb-box-shadow-drop-x: 4;
   --fb-box-shadow-drop-y: 4;
@@ -19,4 +83,5 @@
   --fb-border-radius: 8px;
   --fb-text-fill: #1E1E1E;
   --fb-token-set-order-0: global;
+  --fb-token-set-order-1: core;
 }
